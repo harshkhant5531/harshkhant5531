@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **something cool!!!**
 
-- 🌱 I’m currently learning **Data Structure and Web Devlopment**
+- 🌱 I’m currently learning **DSA and Web Devlopment**
 
 - 👨‍💻 All of my projects are available at [https://github.com/harshkhant5531](https://github.com/harshkhant5531)
 
