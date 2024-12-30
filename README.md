@@ -4,9 +4,7 @@
 
 - 🔭 I’m currently working on **something cool!!!**
 
-- 🌱 I’m currently learning **DSA and Web Devlopment**
-
-- 👨‍💻 All of my projects are available at [https://github.com/harshkhant5531](https://github.com/harshkhant5531)
+- 🌱 I’m currently learning **Python and Flutter**
 
 - 📫 How to reach me **khantharsh87@gmail.com**
 
