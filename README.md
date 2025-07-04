@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **something cool!!!**
 
-- 🌱 I’m currently learning **Python and Flutter**
+- 🌱 I’m currently learning **Data Mining and Advanvce Flutter**
 
 - 📫 How to reach me **khantharsh87@gmail.com**
 
